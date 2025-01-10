@@ -2,7 +2,7 @@
 
 Welcome to my **LeetCode Journey** repository! 🚀
 
-This repository is a personal log of my progress as I solve problems on [LeetCode](https://leetcode.com/). Each solution is crafted to improve my coding skills and problem-solving abilities, while also serving as a reference for others who might be looking for guidance or alternate approaches to solving problems.
+This repository is a personal log of my progress as I solve problems on [LeetCode](https://leetcode.com/u/Warrior_Coder27/). Each solution is crafted to improve my coding skills and problem-solving abilities, while also serving as a reference for others who might be looking for guidance or alternate approaches to solving problems.
 
 ---
 
